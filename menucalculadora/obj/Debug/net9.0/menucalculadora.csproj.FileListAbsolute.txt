@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\bin\Debug\net9.0\menucalculadora.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\bin\Debug\net9.0\menucalculadora.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\bin\Debug\net9.0\menucalculadora.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\bin\Debug\net9.0\menucalculadora.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\bin\Debug\net9.0\menucalculadora.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\obj\Debug\net9.0\menucalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\obj\Debug\net9.0\menucalculadora.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\obj\Debug\net9.0\menucalculadora.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\obj\Debug\net9.0\menucalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\obj\Debug\net9.0\menucalculadora.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\obj\Debug\net9.0\refint\menucalculadora.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\obj\Debug\net9.0\menucalculadora.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\obj\Debug\net9.0\menucalculadora.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\menucalculadora\obj\Debug\net9.0\ref\menucalculadora.dll

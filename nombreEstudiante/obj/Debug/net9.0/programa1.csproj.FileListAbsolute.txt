@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\bin\Debug\net9.0\programa1.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\bin\Debug\net9.0\programa1.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\bin\Debug\net9.0\programa1.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\bin\Debug\net9.0\programa1.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\bin\Debug\net9.0\programa1.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\obj\Debug\net9.0\programa1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\obj\Debug\net9.0\programa1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\obj\Debug\net9.0\programa1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\obj\Debug\net9.0\programa1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\obj\Debug\net9.0\programa1.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\obj\Debug\net9.0\refint\programa1.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\obj\Debug\net9.0\programa1.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\obj\Debug\net9.0\programa1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\programa1\obj\Debug\net9.0\ref\programa1.dll

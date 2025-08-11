@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\obj\Debug\net9.0\oblibro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\obj\Debug\net9.0\oblibro.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\obj\Debug\net9.0\oblibro.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\obj\Debug\net9.0\oblibro.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\bin\Debug\net9.0\oblibro.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\bin\Debug\net9.0\oblibro.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\bin\Debug\net9.0\oblibro.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\bin\Debug\net9.0\oblibro.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\bin\Debug\net9.0\oblibro.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\obj\Debug\net9.0\oblibro.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\obj\Debug\net9.0\refint\oblibro.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\obj\Debug\net9.0\oblibro.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\obj\Debug\net9.0\oblibro.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\oblibro\obj\Debug\net9.0\ref\oblibro.dll

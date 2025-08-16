@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\obj\Debug\net9.0\votar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\obj\Debug\net9.0\votar.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\obj\Debug\net9.0\votar.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\obj\Debug\net9.0\votar.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\bin\Debug\net9.0\votar.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\bin\Debug\net9.0\votar.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\bin\Debug\net9.0\votar.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\bin\Debug\net9.0\votar.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\bin\Debug\net9.0\votar.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\obj\Debug\net9.0\votar.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\obj\Debug\net9.0\refint\votar.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\obj\Debug\net9.0\votar.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\obj\Debug\net9.0\votar.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\votar\obj\Debug\net9.0\ref\votar.dll

@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\bin\Debug\net9.0\ejercicio7.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\bin\Debug\net9.0\ejercicio7.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\bin\Debug\net9.0\ejercicio7.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\bin\Debug\net9.0\ejercicio7.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\bin\Debug\net9.0\ejercicio7.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\obj\Debug\net9.0\ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\obj\Debug\net9.0\ejercicio7.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\obj\Debug\net9.0\ejercicio7.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\obj\Debug\net9.0\ejercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\obj\Debug\net9.0\ejercicio7.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\obj\Debug\net9.0\refint\ejercicio7.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\obj\Debug\net9.0\ejercicio7.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\obj\Debug\net9.0\ejercicio7.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio7\obj\Debug\net9.0\ref\ejercicio7.dll

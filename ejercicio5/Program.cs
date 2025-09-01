@@ -1,92 +1,63 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Linq;
 
-public class Alumno
+public class Productos
 {
-    public string Nombre { get; set; }
-    public int Nota { get; set; }
-
-    public Alumno(string nombre, int nota)
+    public static void Main()
     {
-        Nombre = nombre;
-        Nota = nota;
-    }
-}
+        List<string> productos = new List<string> { "Leche", "Pan", "Huevos", "Queso", "Arroz" };
 
-class Program
-{
-    static void Main()
-    {
-        List<Alumno> listaAlumnos = new List<Alumno>();
-        listaAlumnos.Add(new Alumno("Juan", 70));
-        listaAlumnos.Add(new Alumno("Maria", 85));
-        listaAlumnos.Add(new Alumno("Alex", 50));
-        listaAlumnos.Add(new Alumno("Marta", 92));
-        listaAlumnos.Add(new Alumno("Luisa", 56));
-        listaAlumnos.Add(new Alumno("Angel", 87));
+        Console.WriteLine("Por favor, ingrese el nombre del producto que desea buscar:");
+        string productoBuscado = Console.ReadLine();
 
-        Console.WriteLine("Listado de las Notas de los Alumnos:");
-        Console.WriteLine("Nombre:  Nota: \t Estado:");
-
-        foreach (var alumno in listaAlumnos)
+        bool estaDisponible = false;
+        foreach (string producto in productos)
         {
-            if (alumno.Nota >= 61)
+            if (producto.Equals(productoBuscado, StringComparison.OrdinalIgnoreCase))
             {
-                Console.WriteLine($"{alumno.Nombre} \t {alumno.Nota} \t Aprobado");
-            }
-            else
-            {
-                Console.WriteLine($"{alumno.Nombre} \t {alumno.Nota} \t No Aprobado");
+                estaDisponible = true;
+                break;
             }
         }
-        
-        if (listaAlumnos.Any())
+
+        if (estaDisponible)
         {
-            double promedio = listaAlumnos.Average(a => a.Nota);
-            Console.WriteLine($"El promedio de notas es: {promedio:F2}");
+            Console.WriteLine($"El producto '{productoBuscado}' está disponible.");
         }
         else
         {
-            Console.WriteLine("La lista de alumnos está vacía, no se puede calcular el promedio.");
+            Console.WriteLine($"El producto '{productoBuscado}' no está disponible.");
         }
     }
 }
 
 /*
-public class Producto
+public class ObjetosProducto
 {
-    public string Nombre { get; set; }
-    public decimal Precio { get; set; }
-
-    public Producto(string nombre, decimal precio)
+    public class Producto
     {
-        Nombre = nombre;
-        Precio = precio;
+        public string Nombre { get; set; }
+        public decimal Precio { get; set; }
     }
-}
 
-public class Program
-{
     public static void Main()
     {
-        List<Producto> listaProductos = new List<Producto>();
-
-        listaProductos.Add(new Producto("Teclado", 50.00m));
-        listaProductos.Add(new Producto("Monitor", 250.75m));
-        listaProductos.Add(new Producto("Mouse", 25.00m));
-        listaProductos.Add(new Producto("Auriculares", 150.00m));
-        listaProductos.Add(new Producto("Impresora", 99.99m));
-        listaProductos.Add(new Producto("Webcam", 75.50m));
-
-        Console.WriteLine("Productos con precio superior a 100");
-
-
-        foreach (var producto in listaProductos)
+        List<Producto> listaProductos = new List<Producto>
         {
-            if (producto.Precio > 100)
+            new Producto { Nombre = "Laptop", Precio = 5500.00m },
+            new Producto { Nombre = "Mouse", Precio = 85.50m },
+            new Producto { Nombre = "Teclado Mecánico", Precio = 750.00m },
+            new Producto { Nombre = "Monitor", Precio = 1500.00m },
+            new Producto { Nombre = "USB", Precio = 50.00m }
+        };
+
+        Console.WriteLine("Productos con un precio mayor a Q100:");
+
+        foreach (Producto p in listaProductos)
+        {
+            if (p.Precio > 100.00m)
             {
-                 Console.WriteLine($"Nombre: {producto.Nombre}, Precio: ${producto.Precio}");
+                Console.WriteLine($"- {p.Nombre} (Q{p.Precio})");
             }
         }
     }
@@ -94,36 +65,39 @@ public class Program
 */
 
 /*
-class Program
+public class Estudiantes
 {
-    static void Main()
+    public class Estudiante
     {
-        List<string> dispositivos = new List<string>();
-        dispositivos.Add("Telefono");
-        dispositivos.Add("Computadora");
-        dispositivos.Add("Consola");
-        dispositivos.Add("Televisor");
-        dispositivos.Add("Impresora");
-        dispositivos.Add("Escaner");
-        dispositivos.Add("Reloj");
-        dispositivos.Add("Auriculares");
-        dispositivos.Add("Tablet");
-        dispositivos.Add("Camara");
+        public string Nombre { get; set; }
+        public int Nota { get; set; }
+    }
 
-        Console.WriteLine("Lista de Dispositivos Electrónicos");
-        Console.WriteLine("Ingrese el nombre del Dispositivo Electrónico para verificar si se encuentra en la Lista:");
-        string disIngresado = Console.ReadLine();
-
-        string disBuscado = disIngresado.ToLower();
-
-        if (dispositivos.Select(d => d.ToLower()).Contains(disBuscado))
+    public static void Main()
+    {
+        List<Estudiante> listaEstudiantes = new List<Estudiante>
         {
-            Console.WriteLine($"{disIngresado} Si forma parte de la lista de Dispositivos Electrónicos.");
-        }
-        else
+            new Estudiante { Nombre = "Juan", Nota = 85 },
+            new Estudiante { Nombre = "María", Nota = 58 },
+            new Estudiante { Nombre = "Pedro", Nota = 92 },
+            new Estudiante { Nombre = "Ana", Nota = 65 },
+            new Estudiante { Nombre = "Luis", Nota = 45 }
+        };
+
+        Console.WriteLine("Estudiantes aprobados (Nota >= 61):");
+        int sumaNotas = 0;
+
+        foreach (Estudiante e in listaEstudiantes)
         {
-            Console.WriteLine($"{disIngresado} No forma parte de la lista de Dispositivos Electrónicos.");
+            sumaNotas += e.Nota;
+            if (e.Nota >= 61)
+            {
+                Console.WriteLine($"- {e.Nombre} (Nota: {e.Nota})");
+            }
         }
+
+        double promedio = (double)sumaNotas / listaEstudiantes.Count;
+        Console.WriteLine($"\nEl promedio general de las notas es: {promedio:F2}");
     }
 }
 */

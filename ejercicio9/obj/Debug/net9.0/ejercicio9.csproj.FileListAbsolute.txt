@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\bin\Debug\net9.0\ejercicio9.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\bin\Debug\net9.0\ejercicio9.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\bin\Debug\net9.0\ejercicio9.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\bin\Debug\net9.0\ejercicio9.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\bin\Debug\net9.0\ejercicio9.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\obj\Debug\net9.0\ejercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\obj\Debug\net9.0\ejercicio9.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\obj\Debug\net9.0\ejercicio9.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\obj\Debug\net9.0\ejercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\obj\Debug\net9.0\ejercicio9.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\obj\Debug\net9.0\refint\ejercicio9.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\obj\Debug\net9.0\ejercicio9.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\obj\Debug\net9.0\ejercicio9.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio9\obj\Debug\net9.0\ref\ejercicio9.dll

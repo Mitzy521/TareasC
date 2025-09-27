@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\bin\Debug\net9.0\parcial.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\bin\Debug\net9.0\parcial.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\bin\Debug\net9.0\parcial.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\bin\Debug\net9.0\parcial.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\bin\Debug\net9.0\parcial.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\obj\Debug\net9.0\parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\obj\Debug\net9.0\parcial.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\obj\Debug\net9.0\parcial.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\obj\Debug\net9.0\parcial.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\obj\Debug\net9.0\parcial.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\obj\Debug\net9.0\refint\parcial.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\obj\Debug\net9.0\parcial.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\obj\Debug\net9.0\parcial.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\parcial\obj\Debug\net9.0\ref\parcial.dll

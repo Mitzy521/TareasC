@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\obj\Debug\net9.0\ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\obj\Debug\net9.0\ejercicio13.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\obj\Debug\net9.0\ejercicio13.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\obj\Debug\net9.0\ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\bin\Debug\net9.0\ejercicio13.exe
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\bin\Debug\net9.0\ejercicio13.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\bin\Debug\net9.0\ejercicio13.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\bin\Debug\net9.0\ejercicio13.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\bin\Debug\net9.0\ejercicio13.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\obj\Debug\net9.0\ejercicio13.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\obj\Debug\net9.0\refint\ejercicio13.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\obj\Debug\net9.0\ejercicio13.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\obj\Debug\net9.0\ejercicio13.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\ejercicio13\obj\Debug\net9.0\ref\ejercicio13.dll

@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-
+/*
 interface IPago
 {
     void Procesar(double cantidad);
@@ -50,5 +50,104 @@ class Program
             p.Procesar(montoCompra);
             Console.WriteLine();
         }
+    }
+}
+*/
+/*
+interface IImprimible
+{
+    void Imprimir();
+}
+
+class Factura : IImprimible
+{
+    public void Imprimir()
+    {
+        Console.WriteLine("Factura: Documento fiscal generado y listo para entrega al cliente.");
+    }
+}
+
+class Reporte : IImprimible
+{
+    public void Imprimir()
+    {
+        Console.WriteLine("Reporte: Datos estadísticos compilados y listos para revisión gerencial.");
+    }
+}
+
+class Etiqueta : IImprimible
+{
+    public void Imprimir()
+    {
+        Console.WriteLine("Etiqueta: Código de barras y descripción del producto listos para el inventario.");
+    }
+}
+
+class ProgramaImpresion
+{
+    public static void Main()
+    {
+        List<IImprimible> documentos = new List<IImprimible>
+        {
+            new Factura(),
+            new Reporte(),
+            new Etiqueta()
+        };
+
+        Console.WriteLine("Ejecutando proceso de impresión:");
+        foreach (IImprimible doc in documentos)
+        {
+            doc.Imprimir();
+        }
+    }
+}
+*/
+interface IAutenticable
+{
+    bool Autenticar(string usuario, string clave);
+}
+
+class UsuarioWeb : IAutenticable
+{
+    public bool Autenticar(string usuario, string clave)
+    {
+        bool exito = usuario == "user" && clave == "user123";
+        Console.WriteLine($"Autenticando Usuario Web {usuario}... Resultado: {(exito ? "ÉXITO" : "FALLO")}.");
+        return exito;
+    }
+}
+
+class Administrador : IAutenticable
+{
+    public bool Autenticar(string usuario, string clave)
+    {
+        bool exito = usuario == "admin" && clave == "admin123";
+        Console.WriteLine($"Autenticando Administrador '{usuario}'... Resultado: {(exito ? "ÉXITO" : "FALLO")}.");
+        return exito;
+    }
+}
+
+class Invitado : IAutenticable
+{
+    public bool Autenticar(string usuario, string clave)
+    {
+        Console.WriteLine("Autenticando Invitado... Resultado: ÉXITO.");
+        return true; 
+    }
+}
+
+class ProgramaLogin
+{
+    public static void Main()
+    {
+
+        IAutenticable userWeb = new UsuarioWeb();
+        userWeb.Autenticar("user", "user123");
+
+        IAutenticable admin = new Administrador();
+        admin.Autenticar("admin", "admin124"); 
+
+        IAutenticable invitado = new Invitado();
+        invitado.Autenticar(null, null);
     }
 }

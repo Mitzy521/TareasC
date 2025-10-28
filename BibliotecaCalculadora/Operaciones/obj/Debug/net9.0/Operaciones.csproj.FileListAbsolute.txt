@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\obj\Debug\net9.0\Operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\obj\Debug\net9.0\Operaciones.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\obj\Debug\net9.0\Operaciones.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\obj\Debug\net9.0\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\bin\Debug\net9.0\Operaciones.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\bin\Debug\net9.0\Operaciones.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\bin\Debug\net9.0\Operaciones.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\obj\Debug\net9.0\Operaciones.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\obj\Debug\net9.0\refint\Operaciones.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\obj\Debug\net9.0\Operaciones.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\Mibiblioteca\Operaciones\obj\Debug\net9.0\ref\Operaciones.dll

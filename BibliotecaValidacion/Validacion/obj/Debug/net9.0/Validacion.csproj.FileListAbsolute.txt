@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\bin\Debug\net9.0\Validacion.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\bin\Debug\net9.0\Validacion.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\bin\Debug\net9.0\Validacion.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\obj\Debug\net9.0\Validacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\obj\Debug\net9.0\Validacion.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\obj\Debug\net9.0\Validacion.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\obj\Debug\net9.0\Validacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\obj\Debug\net9.0\Validacion.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\obj\Debug\net9.0\refint\Validacion.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\obj\Debug\net9.0\Validacion.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\BibliotecaValidacion\Validacion\obj\Debug\net9.0\ref\Validacion.dll

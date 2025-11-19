@@ -1,0 +1,11 @@
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\bin\Debug\net9.0\Descuentos.deps.json
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\bin\Debug\net9.0\Descuentos.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\bin\Debug\net9.0\Descuentos.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\obj\Debug\net9.0\Descuentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\obj\Debug\net9.0\Descuentos.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\obj\Debug\net9.0\Descuentos.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\obj\Debug\net9.0\Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\obj\Debug\net9.0\Descuentos.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\obj\Debug\net9.0\refint\Descuentos.dll
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\obj\Debug\net9.0\Descuentos.pdb
+C:\Users\Admin\OneDrive\Documents\Mitzy\Progra\proyecto4\Descuentos\obj\Debug\net9.0\ref\Descuentos.dll
